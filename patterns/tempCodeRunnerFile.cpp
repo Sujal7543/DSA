@@ -1,0 +1,1 @@
+for(int i=len-1;i>=1;i--){
